@@ -17,12 +17,12 @@
 
 # Règlements et sanctions
 * [Règlement](site/rules/introduction.md)
-	* [Discord](site/rules/discord.md)
+	* [Discord](site/rules/0-discord.md)
+	* [Général](site/rules/1-general.md)
+	* [Illegal](site/rules/2-illegal.md)
 	* [HRP](site/rules/rp.md)
 	* [RP](site/rules/RP.md)
-	* [Général](site/rules/general.md)
 	* [Legal](site/rules/legal.md)
-	* [Illegal](site/rules/Illegal.md)
 	* [FDO](site/rules/fdo.md)
 	* [EMS](site/rules/ems.md)
 *[Sanctions](site/rules/punishment.md)
