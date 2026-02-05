@@ -199,3 +199,21 @@ Lorsqu’un joueur est au sol ou dans le coma :
 - il est conscient
 - il ne peut ni parler ni agir
 - il ne peut mémoriser aucune information entendue
+
+---
+
+### 1.31 - Tricherie
+Toute tentative de triche ou de usebug est interdite.
+L'utilisation de périphérique externe amenant une aide en jeu est également interdite (Cronus, etc)
+
+### 1.32 - Pack graphiques
+Les packs graphiques de type gun fight, clearnights et autres pack destinés à avoir un avantages quelconques en jeu sont interdits sur le serveur (Il s'agit surtout de l'idéologie liés à l'utilisation de ce genre de pack).
+
+Les packs d'optimisations de FPS sont tolérés à conditions qu'ils ne ressemble pas de prèts ou de loin à l'un des packs ci-dessus (en cas de doute, demandé au staff).
+
+Toute utilisation d'un pack graphique est sous votre entière responsabilité et le staff ne pourra vous fournir un quelconque support à ce sujet.
+
+De même, si vous subissez des lags en jeu ou que vous voyez certaines choses que d'autres ne voient pas, il se peut que cela vienne de votre Pack graphique.
+
+### 1.33 - Remboursement d'objet
+Aucun remboursement ne sera effectué en cas de perte d'objet en jeu. Exception faite en cas de bug. Des preuves détaillés seront demandées.

@@ -1,6 +1,6 @@
 # RÈGLES GÉNÉRALES DISCORD
 
-## 1.01 Respect obligatoire
+## 0.01 Respect obligatoire
 Le respect est exigé envers tous les membres du serveur.
 Aucune insulte, provocation, harcèlement ou comportement toxique ne sera toléré.
 
