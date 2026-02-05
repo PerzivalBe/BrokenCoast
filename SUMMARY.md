@@ -1,11 +1,11 @@
 # Summary
 
-# Informations générales
+## Informations générales
 * [Nous rejoindre](site/join.md)
 * [Les touches](site/join.md)
 
 
-# Informations RP
+## Informations RP
 * [Lore](site/lore/lore.md)
 	* [Contexte](site/lore/lore.md)
 	* [Ligne du temps](site/lore/lore.md)
@@ -15,7 +15,7 @@
 * [Amendes](site/lore/lore.md)
 	
 
-# Règlements et sanctions
+## Règlements et sanctions
 * [Règlement](site/rules/introduction.md)
 	* [Discord](site/rules/0-discord.md)
 	* [Général](site/rules/1-general.md)
