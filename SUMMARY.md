@@ -1,6 +1,6 @@
 # Summary
 
-# Règlement
+## Règlement
 
 * [Discord](site/rules/discord.md)
 * [HRP](site/rules/rp.md)
