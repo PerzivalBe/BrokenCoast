@@ -1,4 +1,4 @@
-root: ./site
+root: ./site/
 
 ​structure:
   readme: README.md
