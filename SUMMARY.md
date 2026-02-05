@@ -2,6 +2,8 @@
 
 # Informations générales
 * [Nous rejoindre](site/join.md)
+* [Les touches](site/join.md)
+
 
 # Informations RP
 * [Lore](site/lore/lore.md)
@@ -14,7 +16,8 @@
 	
 
 # Règlements et sanctions
-* [Règlement](site/rules/rules.md)
+* [Règlement](site/rules/introduction.md)
+	* [Discord](site/rules/discord.md)
 	* [HRP](site/rules/rp.md)
 	* [RP](site/rules/RP.md)
 	* [Général](site/rules/general.md)
