@@ -128,6 +128,7 @@ Exception : les MC peuvent utiliser jusqu’à 6 motos.
 ### 2.20 — Statut officieux
 Un groupe officieux ne peut pas utiliser à son avantage les règles ou les privilèges réservés aux groupes officiels.
 Les groupes officieux sont considérés comme des petites frappes et doivent donc craindre les gangs et organisations
+
 ---
 
 ### 2.21 — Attaque d'installation illégale

@@ -210,5 +210,4 @@ L’objectif n’est pas la victoire, mais la création d’une expérience imme
 
 Privilégiez toujours la narration, le réalisme et le plaisir de jeu collectif.
 
-
 ---

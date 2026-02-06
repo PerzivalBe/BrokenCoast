@@ -90,6 +90,7 @@ Le port du masque ne représente pas une immunité face à l'identification.
 ### 1.11 — Powergaming
 Effectuer des actions irréalistes ou impossibles dans la vraie vie est interdit.
 Dans ce cas, vous vous exposez à une mort-RP
+
 ---
 
 ### 1.12 — Force RP
