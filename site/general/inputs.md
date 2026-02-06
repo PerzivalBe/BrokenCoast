@@ -9,7 +9,7 @@ GTA V → Paramètres → Raccourcis → FiveM
 ---
 
 | Action | Touche | Description |
-|--------|---------|-----------|-------------|
+|--------|---------|-------------|
 | Téléphone | F1 | Ouvrir le téléphone |
 | Inventaire | L | Ouvrir l'inventaire |
 | Parler radio | ALT GAUCHE | Maintenir pour parler sur la fréquence |
