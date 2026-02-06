@@ -1,9 +1,9 @@
-# ⌨️ Guide Global des Touches — Broken Coast
+# Guide Global des Touches — Broken Coast
 
 Bienvenue sur le serveur **Broken Coast**.  
 Vous trouverez ci-dessous **toutes les touches du serveur regroupées dans un seul tableau**.
 
-⚠️ Certaines touches peuvent être modifiées via :  
+Certaines touches peuvent être modifiées via :  
 GTA V → Paramètres → Raccourcis → FiveM
 
 ---
@@ -39,7 +39,7 @@ GTA V → Paramètres → Raccourcis → FiveM
 
 ---
 
-## 📝 Notes
+## Notes
 
 ### Personnalisation
 La plupart des touches peuvent être changées dans FiveM.
@@ -59,4 +59,4 @@ Besoin d’aide ? Ouvrez un ticket staff.
 
 ---
 
-Bon jeu sur **Qbox** 🚀
+Bon jeu sur **Broken Coast** 
