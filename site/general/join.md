@@ -19,7 +19,7 @@ Rejoignez notre Discord communautaire :
 
 👉 Rendez-vous dans **Support** si vous avez un problème.
 
-{% embed url="https://discord.gg/vDZVhFnNZx" %}
+<a href="https://discord.gg/vDZVhFnNZx" class="button primary"><i class="fa-brands fa-discord">discord</i></a>
 
 ---
 
