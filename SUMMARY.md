@@ -1,8 +1,8 @@
 # Summary
 
 ## Informations générales
-* [Nous rejoindre](site/join.md)
-* [Les touches](site/join.md)
+* [Nous rejoindre](site/general/join.md)
+* [Les touches](site/general/inputs.md)
 
 
 ## Informations RP
