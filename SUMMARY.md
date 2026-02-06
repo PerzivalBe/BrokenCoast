@@ -20,7 +20,7 @@
 * [Discord](site/rules/0-discord.md)
 * [Général](site/rules/1-general.md)
 * [Illegal](site/rules/2-illegal.md)
-* [Illegal](site/rules/2-illegal.md)
+* [Illegal](site/rules/2-gangOrga.md)
 * [FDO](site/rules/3-fdo.md)
 * [EMS](site/rules/5-ems.md)
 * [Entreprise](site/rules/6-entreprise.md)
