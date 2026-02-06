@@ -19,6 +19,8 @@ Rejoignez notre Discord communautaire :
 
 👉 Rendez-vous dans **Support** si vous avez un problème.
 
+{% embed url="https://discord.com/widget?id=1425889362155012130&theme=dark" %}
+
 <iframe src="https://discord.com/widget?id=1425889362155012130&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 ---
