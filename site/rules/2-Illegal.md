@@ -22,7 +22,7 @@ Le RP "lève lève lève lève" est interdit et est considéré comme HRP -> [1.
 
 ### 2.03 — Hiérarchie des groupes
 Les groupes officieux doivent craindre les groupes officiels, mieux implantés, équipés et reconnus.
-au même titre qu'un gang doit craindre une organisation, même si ils sont moins nombreux sur scène. [1.04 — Mass RP](./1-general.md#104--mass-rp)
+Au même titre qu'un gang doit craindre une organisation, même s'ils sont moins nombreux sur scène. [1.04 — Mass RP](./1-general.md#104--mass-rp)
 
 ---
 
@@ -35,7 +35,7 @@ Vous devez choisir entre l’argent ou un objet, jamais les deux.
 ### 2.06 — Lore GTA
 Le nom d’un gang ou d'une orga doit respecter l’univers GTA.  
 Vous pouvez cependant créer un groupe avec un nom et une histoire originale.
-Les références à des gangs réels (Bloods, Crips, etc.) ainsi que références à d'autres jeux sont interdites.
+Les références à des gangs réels (Bloods, Crips, etc.) ainsi que les références à d'autres jeux sont interdites.
 
 ---
 
@@ -58,8 +58,8 @@ Il est interdit de revendiquer le monopole d’un commerce ou d’une activité 
 
 ### 2.10 — Otages
 Les otages doivent être légitimes.  
-Les faux otages, joueurs consentants ou membres du même groupe sont interdits.
-Les PNJ peuvent être pris en hotages et ils seront considérés comme des joueurs (on ne les tues pas sans raison, mêmes si ils prennent la fuite)
+Les faux otages, joueurs consentants ou membres du même groupe, sont interdits.
+Les PNJ peuvent être pris en hotages et ils seront considérés comme des joueurs (on ne les tue pas sans raison, mêmes s'ils prennent la fuite)
 
 ---
 
@@ -76,7 +76,7 @@ Il est interdit de tirer, frapper, braquer ou tuer dans les zones publiques fort
 ### 2.12 — Identité du gang
 Un appartient à la rue.  
 Il ne peut pas se définir comme cartel, mafia ou organisation majeure.
-Il peut cependant le devenir si et seulement si les conditions et le RP tant vers cela.
+Il peut cependant le devenir si et seulement si les conditions et le RP tendent vers cela.
 
 ---
 
@@ -127,13 +127,13 @@ Exception : les MC peuvent utiliser jusqu’à 6 motos.
 ---
 
 ### 2.20 — Statut officieux
-Un groupe officieux ne peut pas utiliser à son avantage les règles ou privilèges réservés aux groupes officiels.
+Un groupe officieux ne peut pas utiliser à son avantage les règles ou les privilèges réservés aux groupes officiels.
 Les groupes officieux sont considérés comme des petites frappes et doivent donc craindre les gangs et organisations
 ---
 
 ### 2.21 — Attaque d'installation illégale
 Une attaque d'installation doit s’inscrire dans un conflit déjà existant.  
-Le groupe ciblée doit être prévenue qu’elle est une cible potentielle.
+Le groupe ciblé doit être prévenu qu'il est une cible potentielle.
 
 Les attaques surprises sans avertissement sont interdites.
 
@@ -148,29 +148,31 @@ Un groupe doit rester actif et faire évoluer son histoire en RP de manière ré
 Tout conflit entre groupes doit débuter par une discussion ou négociation.
 
 Durant celle-ci, il est interdit :
-- de prendre position armée
-- de rester dans un véhicule prêt à tirer
-- d’ouvrir le feu
+- Prendre position armée
+- Rester dans un véhicule prêt à tirer
+- Ouvrir le feu
 
 Sauf accord explicite des deux chefs.
 
 Un conflit se doit également de respecter l'escalade de la violence:
-- conflit verbale
-- menace
-- drive-by
-- déclaration de guerre
-- conflit armé
+- Conflit verbale
+- Menace
+- Drive-by
+- Déclaration de guerre
+- Conflit armé
 
 -> chaque étape doit amener par la suite une scène de négociation pour résoudre le conflit
 
 
 ### 2.24 — Rendez-vous illégale
-Lors d'un rendez-vous illégale vous devez vous en tenir au cadre de la discussion.
+Lors d'un rendez-vous illégal, vous devez vous en tenir au cadre de la discussion.
 Il est donc interdit de :
-- braquer
-- ouvrir le feux
-- enlever une personne
-
-
+- Braquer
+- Ouvrir le feux
+- Enlever une personne
 
 ---
+
+### 2.25 — Course poursuite
+Lors d'une course-pousuite, il est interdit d'utiliser un véhicule de type super ou hypersport.
+Il est également interdit d'emprunter des chemins inacessibles en voiture (escalier, etc), cela reste cependant autorisé avec un véhicule 2 roues adapté à la situation et à vitesse très réduite (inférieure à 30 km/h)

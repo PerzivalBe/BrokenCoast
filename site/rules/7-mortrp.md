@@ -2,8 +2,8 @@
 
 
 ### 7.01 - Demande de Mort-RP
-Une mort RP ne se joue pas comme ça. Toute demande doit passer via ticket sur le discord et faire l'objet d'un dossier.
-Chaque dossier devra présenter les motivations ainsi que les portes de sorties(obligatoire) pour le personnage ciblé. 
+Une mort RP ne se joue pas comme ça. Toute demande doit passer via ticket sur le Discord et faire l'objet d'un dossier.
+Chaque dossier devra présenter les motivations ainsi que les portes de sortie(obligatoire) pour le personnage ciblé. 
 
 Dans le dossier devront figurer les informations suivantes:
 - Identité du personnage ciblé
@@ -26,7 +26,7 @@ Faire preuve de no fear et de power gaming peut conduire à la mort définitive 
 ### 7.05 - Mort clinique
 Le décès d'un personnage peut être prononcé par un membre du corps médical. A l'instar d'un jugement, le processus de mort-rp par ticket devra être respecté [7.01](./7-mortrp.md#701---demande-de-mort-rp)
 
-### 1.33 - Héritage
+### 7.06 - Héritage
 Tout héritage non validé par le staff en amont est interdit.
 L'héritage ne concerne que certains objets dits "sentimentale"
 
@@ -35,3 +35,12 @@ Ne sera donc pas accepté:
 - Flotte de véhicules
 - Armes
 
+### 7.07 - Scène EMS
+Refuser une scène EMS suite à une blessure grave entrainera la mort-RP de votre personnage.
+
+En cas de contrainte IRL urgente:
+- Prévenez l'EMS (subtilement)
+- Ouvrez un ticket de support
+
+### 7.08 - Mort, mort et re-mort
+Une mort RP signifie que votre personnage meurt, cela sous-entend que tout sera remis à zéro lors de la création de votre nouveau personnage, aucun transfert de bien ou d'argent ne sera effectué.

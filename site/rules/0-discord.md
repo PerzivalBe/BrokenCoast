@@ -22,7 +22,7 @@ Pour discuter rendez-vous dans la partie HRP
 Il est fortement déconseillé de contacter les membres ou le staff en messages privés sans y avoir été invité.
 Toute demande doit passer par les salons prévus à cet effet ou par le système de tickets.
 Le staff ne répondra pas aux MP non sollicités. 
-Le staff décline toute responsabilité en cas de problème survenus en MP !
+Le staff décline toute responsabilité en cas de problème survenu en MP !
 
 ## 0.06 Pseudonyme et photo de profil
 Les pseudos et avatars offensants, provocateurs ou inappropriés sont interdits.

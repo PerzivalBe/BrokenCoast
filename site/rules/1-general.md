@@ -27,7 +27,7 @@ Refuser de participer à une scène ou ignorer volontairement une interaction RP
 ---
 
 ### 1.03b — Safe-word
-Une exception existe, en cas de scène malaisante ou dérivant en hors sujet, vous pouvez utilisez 
+Une exception existe: en cas de scène malaisante ou dérivant en hors sujet, vous pouvez utilisez 
 le safe-word suivant: ** HRP STOP **
 La scène devra alors s'interrompre de la manière la plus naturelle possible
 Si cette injonction n'est pas respectée, vous pouvez faire un /report, un staff viendra regarder la scène.
@@ -68,6 +68,7 @@ Utiliser le stream d’un joueur pour obtenir des informations RP est strictemen
 ### 1.08 — Fear RP
 Votre personnage doit craindre la mort, la prison et le danger.  
 Les actions héroïques ou irréalistes (1v10, charges suicidaires…) sont interdites.
+Dans ce cas, vous vous exposez à une mort-RP
 
 ---
 
@@ -88,7 +89,7 @@ Le port du masque ne représente pas une immunité face à l'identification.
 
 ### 1.11 — Powergaming
 Effectuer des actions irréalistes ou impossibles dans la vraie vie est interdit.
-
+Dans ce cas, vous vous exposez à une mort-RP
 ---
 
 ### 1.12 — Force RP
@@ -217,3 +218,39 @@ De même, si vous subissez des lags en jeu ou que vous voyez certaines choses qu
 
 ### 1.33 - Remboursement d'objet
 Aucun remboursement ne sera effectué en cas de perte d'objet en jeu. Exception faite en cas de bug. Des preuves détaillés seront demandées.
+
+
+### 1.35 - Véhicules
+Toute conduite d'un véhicule doit être effectuée de manière la plus réaliste possible.
+
+### 1.35b - Pneu crevé
+Lorsque vous crevez ou que l'on vous crève un pneu votre vitesse sera réduite à 30km/h.
+En cas de crevaison d'un second pneu, vous arreterez votre véhicule immédiatement.
+
+### 1.35c - Véhicule retourné
+Il est formellement interdit de foncer dans un véhicule pour le remettre sur ses roues.
+Des mécanos sont présent en ville, cas échéant, faite un /report et un membre du staff vous aidera.(Tout abus sera sanctionné)
+
+
+### 1.36 - le staff en jeu
+Les membres du staff veille au bon comportement en jeu. Ils sont les garants du bon comportement des joueurs. Il leurs est donc autorisé de spec une scène dans l'unique but de vérifier que celle-ci ne présente aucun problème.
+
+
+### 1.37 - Solliciter le staff
+Vous êtes autorisé d'utiliser la commande /report pour faire appel au staff en cas de problème réel.
+
+Le staff n'est pas la pour:
+- Soigner
+- Réparer votre véhicule
+- Donner des objets ou de l'argent
+
+Tout abus sera sanctionné
+
+
+### 1.38 - Abus du staff
+Si vous remarquez des abus venant d'un staff en jeu. 
+Vous avez le droit de créer un ticket fonda pour remonter l'information.
+
+Les tickets fonda sont uniquement la pour cette raison.
+Tout abus causera la fermeture du ticket et potentiellement une sanction
+

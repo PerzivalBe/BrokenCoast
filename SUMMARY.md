@@ -16,14 +16,13 @@
 	
 
 ## Règlements et sanctions
-* [Règlement](site/rules/introduction.md)
-	* [Discord](site/rules/0-discord.md)
-	* [Général](site/rules/1-general.md)
-	* [Illegal](site/rules/2-illegal.md)
-	* [HRP](site/rules/rp.md)
-	* [RP](site/rules/RP.md)
-	* [Legal](site/rules/legal.md)
-	* [FDO](site/rules/fdo.md)
-	* [EMS](site/rules/ems.md)
-*[Sanctions](site/rules/punishment.md)
+* [Introduction et lexique](site/rules/introduction.md)
+* [Discord](site/rules/0-discord.md)
+* [Général](site/rules/1-general.md)
+* [Illegal](site/rules/2-illegal.md)
+* [FDO](site/rules/3-fdo.md)
+* [EMS](site/rules/5-ems.md)
+* [Entreprise](site/rules/6-entreprise.md)
+* [Mort RP](site/rules/7-mortrp.md)
+* [Sanctions](site/rules/punishment.md)
 
