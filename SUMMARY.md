@@ -18,8 +18,8 @@
 	<!-- * [IX. Les Expéditions du Nord](./site/lore/09-expeditions-nord.md) -->
 	<!-- * [X. Le Nord — La Vérité interdite](./site/lore/10-nord-verite.md) -->
 	<!-- * [Appendix — Mécaniques](./site/lore/11-appendix.md) -->
-* [Lois](site/lore/lore.md)
-* [Amendes](site/lore/lore.md)
+<!-- * [Lois](site/lore/lore.md) -->
+<!-- * [Amendes](site/lore/lore.md) -->
 
 ## Lore
 
