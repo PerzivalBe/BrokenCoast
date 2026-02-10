@@ -13,10 +13,10 @@ Le spam, le flood, l’abus de majuscules, d’émojis ou de mentions est interd
 Cela inclut les messages inutiles, répétitifs ou hors contexte.
 
 ## 0.04 Utilisation des salons
-Chaque salon à une utilité précise.
+Chaque salon a une utilité précise.
 Merci de respecter le sujet du salon et de poster au bon endroit.
-Les canaux RP textuels on une fonction bien particulière et se doivent de rester roleplay, merci de la respecter.
-Pour discuter rendez-vous dans la partie HRP
+Les canaux RP textuels ont une fonction bien particulière et se doivent de rester roleplay, merci de la respecter.
+Pour discuter, rendez-vous dans la partie HRP
 
 ## 0.05 Messages privés (MP)
 Il est fortement déconseillé de contacter les membres ou le staff en messages privés sans y avoir été invité.
@@ -49,7 +49,7 @@ Chaque membre est responsable de son comportement et de ses messages.
 « Je n’ai pas lu » n’est pas une excuse.
 
 ## 0.12 Nom et prénom
-Votre pseudo sur discord doit être modifié afin de reflèté celui de votre personnage RP.
+Votre pseudo sur Discord doit être modifié afin de refléter celui de votre personnage RP.
 Tout pseudo pouvant être problématique entrainera une sanction. 
 Veuillez également faire attention à ne pas utiliser de caractères spéciaux ou tout autre fioriture pour votre pseudo.
 

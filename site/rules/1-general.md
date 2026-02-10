@@ -4,6 +4,7 @@
 
 ## Immersion & comportement général
 
+
 ### 1.01 — Cohérence RP
 Chaque joueur doit maintenir une cohérence constante :
 - histoire du personnage
@@ -12,6 +13,14 @@ Chaque joueur doit maintenir une cohérence constante :
 - évolution
 
 Vos actions doivent rester crédibles et réalistes dans le contexte du serveur.
+
+### 1.01b - Nom de personnage
+Vous êtes libre de choisir le nom et prénom de votre personnage à quelques exceptions près:
+- Pas de référence à des personnalités réelles et fictives existantes(stars, président, personnage de livre et de jeux vidéo, etc.)
+- Pas de jeu de mots
+
+En d'autres termes, soyez originaux.
+pour vous aidez: [Générateur de noms](https://fr.fantasynamegenerators.com/noms-anglais.php)
 
 ---
 
@@ -37,12 +46,11 @@ Tout abus ou non-respect de cette clause mènera à des sanctions.
 
 ### 1.04 — Mass RP
 San Andreas est considéré comme densément peuplé.  
-Même si aucun PNJ n’est visible, vous devez agir comme si :
+Même si aucun PNJ n’est visible, vous devez agir comme s'ils étaient présent :
 - témoins
 - civils
 - caméras
 - forces de l’ordre  
-étaient présents.
 
 ---
 
@@ -61,14 +69,16 @@ Utiliser des informations obtenues hors RP (Discord, stream, vidéo, amis, etc.)
 ---
 
 ### 1.07 — Streamhack
-Utiliser le stream d’un joueur pour obtenir des informations RP est strictement interdit.
+Utiliser le stream d’un joueur pour obtenir des informations RP est strictement interdit. Relatif au [Métagming](./1-general.md#106--métagaming)
 
 ---
 
 ### 1.08 — Fear RP
-Votre personnage doit craindre la mort, la prison et le danger.  
+Votre personnage doit craindre la mort, la prison et le danger ainsi que les FDO.
 Les actions héroïques ou irréalistes (1v10, charges suicidaires…) sont interdites.
-Dans ce cas, vous vous exposez à une mort-RP
+Dans le cas ou vous êtes face à des FDO, prenez en compte qu'ils comptes double (jusqu'à 3 joueurs) [Mass RP](./1-general.md#104--mass-rp)
+
+En cas de non-respect de cette règle, vous vous exposez à une mort-RP
 
 ---
 
@@ -79,11 +89,22 @@ Vous devez en tenir compte dans vos déplacements et comportements.
 ---
 
 ### 1.10 — Personne masquée
+Le port d’un masque doit être justifié par une situation RP cohérente (braquage, moto, dissimulation).
 Un joueur masqué ne peut pas être reconnu de manière formelle.  
 La voix ne constitue pas une preuve d’identification.
 Cependant, les tatouages, vêtements, accessoires, couleurs de peau, accent peuvent être des indices menant à l'identification.
 
 Le port du masque ne représente pas une immunité face à l'identification.
+Lorsque vous portez un masque, il vous est interdit de changer votre manière de parler (vous conservez accent et "tic" de language)
+
+### 1.10b - Changement physique
+Il vous est également interdit de changer d'apparence physique comme de chemise, restez cohérent et fairplay.
+Les cheveux ne poussent pas du jour au lendemain au même titre que la barbe.
+
+Exemple:
+- Une coiffure ne vous va pas : créez des scènes auxquelles vous le faites savoir et changez de coupe 2-3 jours après.
+- On ne change pas d'apparence pour échapper à la police
+
 
 ---
 
@@ -114,13 +135,12 @@ Pour empêcher un joueur de communiquer, vous devez lui retirer physiquement son
 ---
 
 ### 1.16 — Freekill
-Tuer un joueur sans raison RP valable est strictement interdit.
+Tuer un joueur ou un PNJ sans raison RP valable et sans scène est strictement interdit.
 
 ---
 
 ### 1.17 — Carkill
-Percuter ou tuer volontairement un joueur avec un véhicule est interdit.
-Les PNJ rentre également dans ce cadre, ils doivent être considérés au même titre qu'un joueur
+Percuter ou tuer volontairement un joueur ou un PNJ avec un véhicule est interdit.
 
 ---
 
@@ -131,7 +151,7 @@ Dégainer ou utiliser une arme doit être justifié par un danger réel ou une s
 
 ### 1.19 — Zones médicales
 Toute violence ou fusillade dans un hôpital est strictement interdite.  
-Le personnel médical est intouchable.
+Le personnel médical en service est intouchable.
 
 ---
 
@@ -163,7 +183,10 @@ Lors d’une activité illégale, votre première réaction doit être la fuite 
 
 ### 1.25 — Quartiers sensibles
 Aucune zone n’est considérée comme hors juridiction policière(à l'exception du Nord).
-Il est également interdit l'accès à un quartier aux FDO
+Il est également interdit d'empêhcer l'accès à un quartier aux FDO et EMS
+
+En tant que membre de gang vous avez le droits de mettre en place des barrages dans vos quartiers uniquement. 
+En tant que FDO/EM respectez les barrages et annoncez vous aux résidents du quartier.
 
 ---
 
@@ -173,20 +196,15 @@ Il est également interdit de braquer un EMS pour lui voler de l'équippement m�
 
 ---
 
-### 1.26b — Équipements officiels dans les véhicules
+### 1.27 — Équipements officiels dans les véhicules
 Si un véhicules d'urgence est laissé sans surveillance et ouvert. Vous avez le droit de fouillez coffre et boite à gants.
 
 Exception: un véhicule laissé au milieu de la route sans personne à côté est sans doute la cause d'un crash du joueur. Dans ce cas, il est formellement interdit de fouiller le véhicule.
 
 ---
 
-### 1.27 — Port du masque
-Le port d’un masque doit être justifié par une situation RP cohérente (braquage, moto, dissimulation).
-
----
-
 ### 1.28 — Commerce illégal public
-Toute activité illégale via apllication(excepté dark chat) ou réseaux publics RP est interdite.
+Toute activité illégale via aplication(excepté dark chat) ou réseaux publics RP est interdite.
 
 ---
 
@@ -199,7 +217,7 @@ Tout propos raciste, sexiste, haineux, homophobe ou harcèlement est interdit et
 ### 1.30 — État inconscient
 Lorsqu’un joueur est au sol ou dans le coma :
 - il est conscient
-- il ne peut ni parler ni agir
+- il ne peut ni parler ni agir (Quelques râles de douleur sont permis en cohérence avec le pain subit)
 - il ne peut mémoriser aucune information entendue
 
 ---
@@ -210,11 +228,9 @@ L'utilisation de périphérique externe amenant une aide en jeu est également i
 
 ### 1.32 - Pack graphiques
 Les packs graphiques de type gun fight, clearnights et autres pack destinés à avoir un avantages quelconques en jeu sont interdits sur le serveur (Il s'agit surtout de l'idéologie liés à l'utilisation de ce genre de pack).
-
-Les packs d'optimisations de FPS sont tolérés à conditions qu'ils ne ressemble pas de prèts ou de loin à l'un des packs ci-dessus (en cas de doute, demandé au staff).
+Les packs d'optimisations de FPS sont tolérés à conditions qu'ils ne ressemble pas de prêt ou de loin à l'un des packs ci-dessus (en cas de doute, demander au staff).
 
 Toute utilisation d'un pack graphique est sous votre entière responsabilité et le staff ne pourra vous fournir un quelconque support à ce sujet.
-
 De même, si vous subissez des lags en jeu ou que vous voyez certaines choses que d'autres ne voient pas, il se peut que cela vienne de votre Pack graphique.
 
 ### 1.33 - Remboursement d'objet
@@ -234,11 +250,11 @@ Des mécanos sont présent en ville, cas échéant, faite un /report et un membr
 
 
 ### 1.36 - le staff en jeu
-Les membres du staff veille au bon comportement en jeu. Ils sont les garants du bon comportement des joueurs. Il leurs est donc autorisé de spec une scène dans l'unique but de vérifier que celle-ci ne présente aucun problème.
+Les membres du staff veillent au bon comportement en jeu. Ils sont les garants du bon comportement des joueurs. Il leurs est donc autorisé de spec une scène dans l'unique but de vérifier que celle-ci ne présente aucun problème.
 
 
 ### 1.37 - Solliciter le staff
-Vous êtes autorisé d'utiliser la commande /report pour faire appel au staff en cas de problème réel.
+Vous êtes autorisé d'utiliser la commande /report ou ticket pour faire appel au staff en cas de problème réel.
 
 Le staff n'est pas la pour:
 - Soigner
@@ -251,7 +267,10 @@ Tout abus sera sanctionné
 ### 1.38 - Abus du staff
 Si vous remarquez des abus venant d'un staff en jeu. 
 Vous avez le droit de créer un ticket fonda pour remonter l'information.
+Les tickets fonda sont uniquement là pour cette raison.
 
-Les tickets fonda sont uniquement la pour cette raison.
-Tout abus causera la fermeture du ticket et potentiellement une sanction
+De manière générale, en cas de doute, de problème concernant une décision, comportement d'un membre du staff, privilégiez l'échange par ticket.
+L'objectif est de désamorcer une situation en ayant les différents point de vue. 
+
+Le but de cette règle est d'offrir une transparence ainsi qu'une safe-place pour pouvoir discuter en cas de problème.
 

@@ -16,12 +16,17 @@ Un EMS doit soigner toute personne sans distinction :
 - Statut légal
 
 Aucune discrimination ou favoritisme n’est autorisé.
-Tout EMS à prononcé le serment d'Hippocrate
+Tout EMS a prononcé le serment d'Hippocrate.
+
+---
+
+### 5.01b — Information personnel
+Tout patient est soumis au secret médical. Il est donc interdit aux EMS de dévoiler de quelconques informations à leurs sujets. Seule exception : demande policière avec mandat en bon et due forme.
 
 ---
 
 ### 5.02 — Interdiction d’activités illégales
-Un membre EMS / LSFD / LVFD ne peut participer à aucune activité criminelle :
+Un membre EMS ne peut participer à aucune activité criminelle :
 - Organisation illégale
 - Trafic
 - Braquage
@@ -29,7 +34,7 @@ Un membre EMS / LSFD / LVFD ne peut participer à aucune activité criminelle :
 - Enlèvement
 - Ou toute action hors-la-loi
 
-Le rôle médical doit rester strictement neutéral.
+Le rôle médical doit rester strictement neutre.
 
 ---
 
@@ -49,7 +54,7 @@ Si vous décidez tout de même d'entrer sur une zone de fusillade en cours, votr
 ### 5.04 — Mission principale
 Les EMS ont pour mission de porter assistance, sauver et soigner les citoyens de San Andreas.
 
-Toute intervention doit prioriser la prise en charge médicale.
+En cas de non-respect d'un pain par un joueur, vous devez en avertir le staff via ticket.
 
 ---
 
