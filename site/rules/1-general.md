@@ -97,6 +97,8 @@ Cependant, les tatouages, vêtements, accessoires, couleurs de peau, accent peuv
 Le port du masque ne représente pas une immunité face à l'identification.
 Lorsque vous portez un masque, il vous est interdit de changer votre manière de parler (vous conservez accent et "tic" de language)
 
+--- 
+
 ### 1.10b - Changement physique
 Il vous est également interdit de changer d'apparence physique comme de chemise, restez cohérent et fairplay.
 Les cheveux ne poussent pas du jour au lendemain au même titre que la barbe.
@@ -104,7 +106,6 @@ Les cheveux ne poussent pas du jour au lendemain au même titre que la barbe.
 Exemple:
 - Une coiffure ne vous va pas : créez des scènes auxquelles vous le faites savoir et changez de coupe 2-3 jours après.
 - On ne change pas d'apparence pour échapper à la police
-
 
 ---
 
@@ -226,6 +227,8 @@ Lorsqu’un joueur est au sol ou dans le coma :
 Toute tentative de triche ou de usebug est interdite.
 L'utilisation de périphérique externe amenant une aide en jeu est également interdite (Cronus, etc)
 
+---
+
 ### 1.32 - Pack graphiques
 Les packs graphiques de type gun fight, clearnights et autres pack destinés à avoir un avantages quelconques en jeu sont interdits sur le serveur (Il s'agit surtout de l'idéologie liés à l'utilisation de ce genre de pack).
 Les packs d'optimisations de FPS sont tolérés à conditions qu'ils ne ressemble pas de prêt ou de loin à l'un des packs ci-dessus (en cas de doute, demander au staff).
@@ -233,25 +236,35 @@ Les packs d'optimisations de FPS sont tolérés à conditions qu'ils ne ressembl
 Toute utilisation d'un pack graphique est sous votre entière responsabilité et le staff ne pourra vous fournir un quelconque support à ce sujet.
 De même, si vous subissez des lags en jeu ou que vous voyez certaines choses que d'autres ne voient pas, il se peut que cela vienne de votre Pack graphique.
 
+---
+
 ### 1.33 - Remboursement d'objet
 Aucun remboursement ne sera effectué en cas de perte d'objet en jeu. Exception faite en cas de bug. Des preuves détaillés seront demandées.
 
+---
 
 ### 1.35 - Véhicules
 Toute conduite d'un véhicule doit être effectuée de manière la plus réaliste possible.
+Mettre des pneus tout terrain sur un véhicule n'en fait pas un 4X4 franchisseur de montagne, soyez cohérent.
+
+---
 
 ### 1.35b - Pneu crevé
 Lorsque vous crevez ou que l'on vous crève un pneu votre vitesse sera réduite à 30km/h.
 En cas de crevaison d'un second pneu, vous arreterez votre véhicule immédiatement.
 
+---
+
 ### 1.35c - Véhicule retourné
 Il est formellement interdit de foncer dans un véhicule pour le remettre sur ses roues.
 Des mécanos sont présent en ville, cas échéant, faite un /report et un membre du staff vous aidera.(Tout abus sera sanctionné)
 
+---
 
 ### 1.36 - le staff en jeu
 Les membres du staff veillent au bon comportement en jeu. Ils sont les garants du bon comportement des joueurs. Il leurs est donc autorisé de spec une scène dans l'unique but de vérifier que celle-ci ne présente aucun problème.
 
+---
 
 ### 1.37 - Solliciter le staff
 Vous êtes autorisé d'utiliser la commande /report ou ticket pour faire appel au staff en cas de problème réel.
@@ -263,6 +276,7 @@ Le staff n'est pas la pour:
 
 Tout abus sera sanctionné
 
+---
 
 ### 1.38 - Abus du staff
 Si vous remarquez des abus venant d'un staff en jeu. 
