@@ -22,6 +22,13 @@ Vous êtes libre de choisir le nom et prénom de votre personnage à quelques ex
 En d'autres termes, soyez originaux.
 pour vous aidez: [Générateur de noms](https://fr.fantasynamegenerators.com/noms-anglais.php)
 
+### 1.01C - Le mur
+Il est strictement interdit de contourner le mur en passant par la mer.  
+En RP, vous devez considérer qu’il fait entièrement le tour de l’île.
+Vous devez également maintenir un Fear RP cohérent vis-à-vis de cette structure : il s’agit d’une imposante installation construite par l’État, dont l’accès est formellement interdit.
+
+Toute intrusion sans autorisation (RP ou staff) pourra entraîner une mort RP.
+
 ---
 
 ### 1.02 — Fair-play
