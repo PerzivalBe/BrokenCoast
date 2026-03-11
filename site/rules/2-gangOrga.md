@@ -22,7 +22,12 @@ Ce genre de RP coupe toute l'immersion  du joueur en face. Soyez créatif lorsqu
 
 ---
 
-### 2.03 — Hiérarchie des groupes
+### 2.03 — Officialisation de groupe
+La création de groupe se fait uniquement via ticket-projet ou vous présentez votre groupe via un dossier reprenant: le nom, les membres, l'histoire ainsi que les objectifs. Vous devez être au minimum 3 personnes pour officialiser le groupe.
+
+---
+
+### 2.03B — Hiérarchie des groupes
 Les groupes officieux doivent craindre les groupes officiels, mieux implantés, équipés et reconnus.
 Au même titre qu'un gang doit craindre une organisation, même s'ils sont moins nombreux sur scène. [1.04 — Mass RP](./1-general.md#104--mass-rp)
 
@@ -54,12 +59,12 @@ Il est également interdit de faire du cop-bait. On ne rend pas visite aux FDO d
 
 | Type | Nombre de joueur | nombre d'otage | Limite | Temps d'attente police |
 | --- | ---| --- | --- | --- |
-|Supérettes|b|c|d|10 min|
-|ATM|b|c|d|/|
-|Vol de voiture(mission)|b|c|d|/|
+|Supérettes|1|1|1/h|10 min|
+|ATM|2|0|1/jour|/|
+|Vol de voiture(mission)|2|0|1J|/|
 |Vol de voiture|b|c|d|10 min|
-|banque|b|c|d|10 min|
-|Bijouterie|b|c|d|10 min|
+|banque|3|taille du groupe sur scène - 1|1/semine|15 min|
+|Bijouterie|3|taille du groupe sur scène - 1|1/semaine|15 min|
 
 
 ---
