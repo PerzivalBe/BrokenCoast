@@ -38,8 +38,8 @@ Tout ce qui concerne la réalité ou le joueur et non le personnage.
 Communication hors personnage (HRP), via les canaux prévus uniquement.
 
 ### Spectate (Spec)
-L'action d'un membre du staff pour observer une scène sans être vu et impliqués.
-C'est pratique à pour unique but de vérifier le bon déroulement d'une scène et non d'espionner un joueur.
+L'action d'un membre du staff pour observer une scène sans être vu et impliqué.
+Cette pratique a pour unique but de vérifier le bon déroulement d'une scène et non d'espionner un joueur.
 
 ---
 
