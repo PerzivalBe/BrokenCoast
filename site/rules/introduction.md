@@ -54,7 +54,7 @@ Utiliser des informations obtenues hors RP (Discord, stream, amis, chat, etc.) e
 Consistent à faire des conclusion attives sur le RolePlay sur un joueur, une entreprise.
 En d'autres termes, ne faites pas de raccourcis rapides puisqu'il faut toujours prendre en compte la diversité des possibilités.
 
-Cette pratique est très souvent liée au [métagaming](./introduction.md#métagaming-interdit)
+Cette pratique est très souvent liées au [métagaming](./introduction.md#métagaming-interdit)
 
 
 Exemple : 
@@ -66,9 +66,9 @@ Exemple :
 Forcer une action irréaliste ou ne laissant aucune possibilité de réaction à un autre joueur.
 
 Exemples :
-- forcer une fouille instantanée
-- attacher quelqu’un sans interaction
-- réaliser des actions physiquement impossibles
+- Forcer une fouille instantanée
+- Attacher quelqu’un sans interaction
+- Réaliser des actions physiquement impossibles
 
 
 ---
@@ -77,7 +77,7 @@ Exemples :
 Votre personnage doit craindre pour sa vie et agir de manière logique face au danger.
 
 Exemple :
-- coopérer face à une arme pointée sur vous
+- Coopérer face à une arme pointée sur vous
 - Coopérer face à une injonction des forces de l'ordre
 - Se mettre à couvert lorsque des coups de feu retentissent
 
@@ -88,13 +88,13 @@ Exemple :
 ### No Pain RP **Interdit**
 Ignorer la douleur ou les blessures subies. 
 Lorsque votre personnage subit un traumatisme(physique ou psychologique),
-vous êtes tenus de jouer les conséquences liés à la blessure.
+vous êtes tenus de jouer les conséquences liées à la blessure.
 
 Exemple :
-- courir normalement après une balle dans la jambe
+- Courir normalement après une balle dans la jambe
 - Reprendre la route tout de suite après un accident (N'oubliez pas: Douleur, j'ai mal!)
 - Ignorer le traitement des médecins (conseil, recommandation, ordonance)
-- Retourner dans une fusillade après être sortis de l'hospital pour blessure par balle
+- Retourner dans une fusillade après être sorti de l'hospital pour blessure par balle
 
 ---
 
@@ -103,7 +103,7 @@ Chercher uniquement à "gagner" une situation au détriment de la qualité RP.
 N'oubliez pas que perdre fait partie du jeu et que de belles scènes peuvent être créées.
 
 Exemple :
-- privilégier le gunfight systématique plutôt que la négociation
+- Privilégier le gunfight systématique plutôt que la négociation
 - Ignorer l'environnement pour s'en sortir
 - Usage d'informations HRP
 
@@ -134,12 +134,10 @@ Quitter le jeu pour éviter une scène ou une conséquence RP.
 Tuer un joueur sans raison RP valable et sans scène.
 
 
-
 ---
 
 ### Free Arrest (FA) **Interdit**
 Arrêter un joueur sans justification RP ou preuve.
-
 
 
 ---
@@ -178,10 +176,9 @@ Il vous est donc conseillé d'oublier les 15 dernières minutes précédant votr
 Seules quelques bribes peuvent vous revenir en mémoire, mais en aucun cas celles-ci ne pourront permettre l'identification formelle de la personne responsable de votre état.
 
 Après être tombé insconscient :
-- oubli des événements récents liés à celle-ci (seules quelques bribes peuvent subsister)
-- pas d'identification formelle possible
-- interdiction de retourner sur la zone pendant un délai défini (pas de revenge RP)
-
+- Oubli des événements récents liés à celle-ci (seules quelques bribes peuvent subsister)
+- Pas d'identification formelle possible
+- Interdiction de retourner sur la zone pendant un délai défini (pas de revenge RP)
 
 ---
 
@@ -193,10 +190,10 @@ Objectif : immersion, narration, fair-play.
 On ne gagne ni ne perd une scène, on la joue.
 
 Vous êtes tenu de :
-- jouer sérieusement
-- participer activement
-- respecter l’immersion
-- rester fair-play
+- Jouer sérieusement
+- Participer activement
+- Respecter l’immersion
+- Rester fair-play
 
 Même si vous n’êtes pas à l’origine de la scène, vous devez contribuer à sa qualité.
 
