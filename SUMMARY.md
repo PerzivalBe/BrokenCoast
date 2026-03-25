@@ -36,3 +36,8 @@
 * [Mort RP](site/rules/7-mortrp.md)
 * [Sanctions](site/rules/punishment.md)
 
+## Législation
+* [Constitution](site/legislation/billOfRights.md)
+* [Charges](site/legislation/charges.md)
+* [Application des peines](site/legislation/charges.md)
+
