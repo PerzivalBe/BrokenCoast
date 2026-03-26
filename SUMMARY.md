@@ -39,5 +39,5 @@
 ## Législation
 * [Constitution](site/legislation/billOfRights.md)
 * [Charges](site/legislation/charges.md)
-* [Application des peines](site/legislation/charges.md)
+* [Application des peines](site/legislation/process.md)
 
