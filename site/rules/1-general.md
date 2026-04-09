@@ -68,6 +68,8 @@ En cas de problème, terminez la scène puis ouvrez un ticket staff avec des pre
 évitez les termes tels que:
 - c'est quel muscle pour prendre son téléphone
 
+
+
 ---
 
 ### 1.06 — Métagaming
@@ -77,6 +79,9 @@ Utiliser des informations obtenues hors RP (Discord, stream, vidéo, amis, etc.)
 
 ### 1.07 — Streamhack
 Utiliser le stream d’un joueur pour obtenir des informations RP est strictement interdit. Relatif au [Métagming](./1-general.md#106--métagaming)
+
+### 1.07b — Double voc
+Lorsque vous êtes en jeu, il est strictement interdit d'être en vocal discord, cela nuit au déroulement du RP de manière générale. Relatif au [Métagming](./1-general.md#106--métagaming)
 
 ---
 
