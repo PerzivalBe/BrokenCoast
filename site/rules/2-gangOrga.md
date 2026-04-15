@@ -62,7 +62,7 @@ Il est également interdit de faire du cop-bait. On ne rend pas visite aux FDO d
 |Supérettes|1|1|1/h|10 min|
 |ATM|2|0|1/jour|/|
 |Vol de voiture(mission)|2|0|1J|/|
-|Vol de voiture|b|c|d|10 min|
+|Vol de voiture|1|0|1/jour|0 min|
 |banque|3|taille du groupe sur scène - 1|1/semine|15 min|
 |Bijouterie|3|taille du groupe sur scène - 1|1/semaine|15 min|
 
