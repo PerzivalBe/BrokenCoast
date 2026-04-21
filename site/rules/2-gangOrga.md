@@ -59,12 +59,11 @@ Il est également interdit de faire du cop-bait. On ne rend pas visite aux FDO d
 
 | Type | Nombre de joueur | nombre d'otage | Limite | Temps d'attente police |
 | --- | ---| --- | --- | --- |
-|Supérettes|1|1|1/h|10 min|
-|ATM|2|0|1/jour|/|
-|Vol de voiture(mission)|2|0|1J|/|
-|Vol de voiture|1|0|1/jour|0 min|
-|banque|3|taille du groupe sur scène - 1|1/semine|15 min|
-|Bijouterie|3|taille du groupe sur scène - 1|1/semaine|15 min|
+|Supérettes|1-3|1|1/h|10 min|
+|ATM|2-3|0|1/jour|/|
+|Vol de voiture(mission)|2-3|0|1J|/|
+|banque|3-5|taille du groupe sur scène - 1|1/semine|15 min|
+|Bijouterie|3-5|taille du groupe sur scène - 1|1/semaine|15 min|
 
 
 ---
